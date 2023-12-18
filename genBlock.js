@@ -20,7 +20,8 @@ const exp = {
             "Implemented a restocking optimization algorithm that improved the performance of an AI system for Retail industry.",
             "Implemented and deployed the system on Azure using Terraform and AWS using CloudFormation",
             "Set up CI/CD pipeline on Azure DevOps and AWS Codepipeline.",
-            "Simulated load testing to analyze the performance of systems"
+            "Simulated load testing to analyze the performance of systems",
+            "Hands-on experience with Kubernetes"
         ],
         location: "Tokyo, Japan",
         time: "May. 2022 - Present",
